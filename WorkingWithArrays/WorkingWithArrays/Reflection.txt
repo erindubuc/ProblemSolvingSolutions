@@ -1,0 +1,5 @@
+﻿taskTypes has a recommended solve time of 5 minutes.  I gave myself 30, but it took me 36 minutes.
+I had the most difficulty with getting the integer results into the array after the loop.  In the beginning, 
+I had the my index assignments right before the loop.  I used Console.WriteLine to help me see where/how the 
+variables were incrementing.  Finally, I realized that I needed to move the assignment statements so that
+the current values were assigned appropriately.
