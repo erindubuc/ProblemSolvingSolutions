@@ -11,15 +11,15 @@ namespace WorkingWithArrays
         bool SumOfTwoArrayIndexes(int[] a, int[] b, int v)
         {
 
-            var hashSet = new HashSet<int>(a);
+            var hashSetA = new HashSet<int>(a);
 
-            int temp = 0;
+            int addend = 0;
 
             for (int bIndex = 0; bIndex < b.Length; bIndex++)
             {
-                temp = v - b[bIndex];
+                addend = v - b[bIndex];
 
-                if (hashSet.Contains(temp))
+                if (hashSetA.Contains(addend))
                     return true;
             }
 
