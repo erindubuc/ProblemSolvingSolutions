@@ -68,6 +68,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SeatsInATheater.cs" />
+    <Compile Include="Will_They_Cause_InfiniteProcess.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
