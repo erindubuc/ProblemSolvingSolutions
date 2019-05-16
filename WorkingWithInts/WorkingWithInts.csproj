@@ -64,6 +64,7 @@
     <Compile Include="CircleOfNumbers.cs" />
     <Compile Include="FindMaxMultiple.cs" />
     <Compile Include="HowManyCandies.cs" />
+    <Compile Include="KnapSackWeightCapacity.cs" />
     <Compile Include="PhoneCallMinutes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
