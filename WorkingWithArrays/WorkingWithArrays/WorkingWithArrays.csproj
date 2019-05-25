@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdjacentElementsProduct.cs" />
+    <Compile Include="AlmostIncreasingSequence.cs" />
     <Compile Include="ReturnFirstDuplicate.cs" />
     <Compile Include="ReturnIntArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
